@@ -1,5 +1,5 @@
  .u-section-1 {
-  min-height: 710px;
+  min-height: 846px;
 }
 
 .u-section-1 .u-layout-wrap-1 {
@@ -60,7 +60,7 @@
 }
 
 .u-section-1 .u-layout-cell-2 {
-  min-height: 710px;
+  min-height: 786px;
   pointer-events: auto;
 }
 
@@ -94,9 +94,23 @@
   margin: -64px 4px 0 91px;
 }
 
+.u-section-1 .u-btn-5 {
+  background-image: none;
+  border-style: none;
+  margin: -32px auto 0 91px;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-6 {
+  background-image: none;
+  border-style: none;
+  margin: -64px auto 0 98px;
+  padding: 0;
+}
+
 .u-section-1 .u-group-2 {
   background-image: none;
-  min-height: 181px;
+  min-height: 182px;
   margin-top: 22px;
   margin-bottom: 0;
 }
@@ -116,9 +130,23 @@
   margin: -64px 4px 0 91px;
 }
 
+.u-section-1 .u-btn-7 {
+  background-image: none;
+  border-style: none;
+  margin: -32px auto 0 91px;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-8 {
+  background-image: none;
+  border-style: none;
+  margin: -64px auto 0 97px;
+  padding: 0;
+}
+
 .u-section-1 .u-group-3 {
   background-image: none;
-  min-height: 181px;
+  min-height: 182px;
   margin-top: 22px;
   margin-bottom: 0;
 }
@@ -138,9 +166,23 @@
   margin: -64px 4px 0 91px;
 }
 
+.u-section-1 .u-btn-9 {
+  background-image: none;
+  border-style: none;
+  margin: -32px auto 0 91px;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-10 {
+  background-image: none;
+  border-style: none;
+  margin: -64px auto 0 98px;
+  padding: 0;
+}
+
 @media (max-width: 1199px) {
    .u-section-1 {
-    min-height: 585px;
+    min-height: 721px;
   }
 
   .u-section-1 .u-layout-wrap-1 {
@@ -157,7 +199,7 @@
 
   .u-section-1 .u-layout-cell-2 {
     background-position: 50% 50%;
-    min-height: 585px;
+    min-height: 648px;
   }
 
   .u-section-1 .u-container-layout-3 {
@@ -167,6 +209,14 @@
 
   .u-section-1 .u-text-6 {
     margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-5 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-6 {
     margin-left: 0;
   }
 
@@ -180,6 +230,14 @@
     margin-left: 0;
   }
 
+  .u-section-1 .u-btn-7 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-8 {
+    margin-left: 0;
+  }
+
   .u-section-1 .u-container-layout-5 {
     padding-top: 16px;
     padding-bottom: 16px;
@@ -187,6 +245,14 @@
 
   .u-section-1 .u-text-8 {
     margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-9 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-10 {
     margin-left: 0;
   }
 }
